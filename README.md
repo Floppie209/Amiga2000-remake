@@ -11,4 +11,8 @@ Then I put in all the via's.
 
 I am now busy with tracing all the connections with the scans as background.
 
-Work in Progress...
+Update 30-5-2019
+
+Frontside finished (I think). When the solderside is finished I will check both sides completely before sending the files of for fabrication.
+
+Solderside started. Still a work in progress...

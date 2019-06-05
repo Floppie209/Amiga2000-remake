@@ -15,6 +15,10 @@ Update 31-5-2019
 
 Frontside finished (I think). When the solderside is finished I will check both sides completely before sending the files of for fabrication.
 
-Solderside started. All the traces finished and now I have to start with the ground plane.
+Solderside finished.
+I checked both sides in close up. (took all day). I found a view missing ground connections and i think it is okay.
 
-Still work in progress.....
+I will check it again in a view days.
+
+If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).
+

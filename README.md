@@ -11,14 +11,18 @@ Then I put in all the via's.
 
 I am now busy with tracing all the connections with the scans as background.
 
-Update 31-5-2019
+Update 31-5-2019: 
 
-Frontside finished (I think). When the solderside is finished I will check both sides completely before sending the files of for fabrication.
+Frontside finished. When the solderside is finished I will check both sides completely before sending the files of for fabrication.
+
+Update 6-6-2019:
 
 Solderside finished.
 I checked both sides in close up. (took all day). I found a view missing ground connections and i think it is okay.
 
-I will check it again in a view days.
+Update 7-6-2019:
+
+DRC done and fixed some small drc issues
 
 If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).
 

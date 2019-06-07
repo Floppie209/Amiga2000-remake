@@ -22,7 +22,7 @@ I checked both sides in close up. (took all day). I found a view missing ground 
 
 Update 7-6-2019:
 
-DRC done and fixed some small drc issues
+DRC done and fixed some small drc issues. 
 Uploaded the latest sprint layout file.
 
 If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).

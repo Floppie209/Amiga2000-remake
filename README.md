@@ -22,8 +22,17 @@ I checked both sides in close up. (took all day). I found a view missing ground 
 
 Update 7-6-2019:
 
-DRC done and fixed some small drc issues. 
-Uploaded the latest sprint layout file.
+Check started
+
+Update 8-6-2019:
+
+Check completed and fixed a view ground connections on the solderside. Also fixed up some polygons.
+DRC issues fixed only silscreen on pad issues remain. I will leave those in as it is no problem for fabrication.
+Uploaded the latest sprint-layout file and the gerberfiles.
+Also I uploaded a jpeg of the finished board.
+
+I will now send the gerber files for fabrication.
+When the pcb comes back I will start soldering.
 
 If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).
 

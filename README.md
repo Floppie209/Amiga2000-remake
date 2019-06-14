@@ -31,8 +31,17 @@ DRC issues fixed only silscreen on pad issues remain. I will leave those in as i
 Uploaded the latest sprint-layout file and the gerberfiles.
 Also I uploaded a jpeg of the finished board.
 
+Update 14-6-2019:
+
+Redone the powerconnector as on the test print the connector did not fit correctly.
+As of that the board is now set to rev 1.1.
+Uploaded the last sprint layout file and a zip file with the latest gerber files.
+
 I will now send the gerber files for fabrication.
 When the pcb comes back I will start soldering.
+
+I strongly advice people to not make boards with these files for now.
+I will do a test batch and completely solder a board for testing. If it checkes out I will let it be known here.
 
 If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).
 

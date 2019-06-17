@@ -40,8 +40,13 @@ Uploaded the last sprint layout file and a zip file with the latest gerber files
 I will now send the gerber files for fabrication.
 When the pcb comes back I will start soldering.
 
+Update 17-6-2019:
+
+Uploaded a new sprint layout file where some silkscreen partnumbers have been changed.
+
 I strongly advice people to not make boards with these files for now.
 I will do a test batch and completely solder a board for testing. If it checkes out I will let it be known here.
 
 If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).
+
 

@@ -49,4 +49,11 @@ I will do a test batch and completely solder a board for testing. If it checkes 
 
 If people want to check it also be my guest but keep me informed if you find anything. (preferably with a screenshot).
 
+Update 6-7-2019:
+
+Boards arrived from the Fab. I tested the board for shorts between GND and the various powerlines and found no shorts.
+I no started to solder the passive components to the board.
+As I checked the silkscreen I found three typing mistakes which I rectified and therefore I updated the sprint files today.
+I also made new gerberfiles which are in the corresponding zip file.
+
 

@@ -6,6 +6,10 @@ I started with the complete removal of all components of an Amiga2000 rev 6.2 mo
 the green layer so the bare copper showed.
 The motherboard was than scanned at 600 dpi on both sides (saved as jpeg) which than could be loaded in Sprint Layout 6.0.
 
+Set the dpi of the scanned images to 600dpi
+Set the board width to 416.95 mm and the board height to 346.25 mm
+Adjust the x and y offset to lineup the scannes with the .lay file
+
 In Sprint Layout I than placed all the components (the ones that weren't there I created myself).
 Then I put in all the via's.
 

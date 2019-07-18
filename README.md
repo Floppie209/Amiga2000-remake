@@ -60,4 +60,12 @@ I no started to solder the passive components to the board.
 As I checked the silkscreen I found three typing mistakes which I rectified and therefore I updated the sprint files today.
 I also made new gerberfiles which are in the corresponding zip file.
 
+Update 18-7-2019:
+
+Fixed a missing trace as the zorro slots were not functioning.
+Board is functioning, the only problem left is the video expansion port not stable enough.
+
+All files updated.
+Also added gerberfiles for the board with most 6.2 fixes properly applied.
+
 

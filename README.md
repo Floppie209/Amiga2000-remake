@@ -67,7 +67,8 @@ Update 20-7-2019:
 Fixed a missing trace as the zorro slots were not functioning.
 Board is functioning, the only problem left is the video expansion port not stable enough.
 
-All files updated.
-Also added gerberfiles for the board with most 6.2 fixes properly applied.
+Update 8-8-2019:
+Removed all versions of the old files and uploaded the final design, incl gerbers.
+In this version almost all the 6.2 patches are applied.
 
 

@@ -71,4 +71,11 @@ Update 8-8-2019:
 Removed all versions of the old files and uploaded the final design, incl gerbers.
 In this version almost all the 6.2 patches are applied.
 
+Update 9-8-2019:
+The problem with the videoextention slot is solved. Flickerfixers that use that slot are working fine now.
+I made new gerbers and updated the github page.
+
+The board is now fully working.
+I rest my case
+
 

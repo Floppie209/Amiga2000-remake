@@ -75,6 +75,10 @@ Update 9-8-2019:
 The problem with the videoextention slot is solved. Flickerfixers that use that slot are working fine now.
 I made new gerbers and updated the github page.
 
+Update 20-8-2019:
+Changed some footprints and cleaned up the pcb a little.
+New gerbers are uploaded
+
 The board is now fully working.
 I rest my case
 

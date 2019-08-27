@@ -79,6 +79,10 @@ Update 20-8-2019:
 Changed some footprints and cleaned up the pcb a little.
 New gerbers are uploaded
 
+Update 27-8-2019:
+I was pointed out that on the original board D15 of the isa slots was not terminated properly. On the original board this is the case. It is fixed in version 1.6 of the board. If you are not using the isa slots than version 1.5 works fine. Anyway I uploaded a 1.6 version of the board together with the gerber files.
+
+
 The board is now fully working.
 I rest my case
 

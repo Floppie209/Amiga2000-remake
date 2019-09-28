@@ -82,8 +82,8 @@ New gerbers are uploaded
 Update 27-8-2019:
 I was pointed out that on the original board D15 of the isa slots was not terminated properly. On the original board this is the case. It is fixed in version 1.6 of the board. If you are not using the isa slots than version 1.5 works fine. Anyway I uploaded a 1.6 version of the board together with the gerber files.
 
-Update 27-9-2019
-Widened the +5V trace to 1.4 mm. If you populate all the slots it might not have enough power when trace is 1 mm. When you order the board with 70um copper it can now handle 6 amps.
+Update 28-9-2019
+Widened the +5V, +12V and -12V traces to 1.4 mm. If you populate all the slots it might not have enough power when trace is 1 mm. When you order the board with 70um copper it can now handle 6 amps. I uploaded a 1.7 version of the design and with it the gerber zip
 
 The board is now fully working.
 I rest my case

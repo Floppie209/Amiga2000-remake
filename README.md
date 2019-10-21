@@ -12,6 +12,8 @@ Set the dpi of the scanned images to 600dpi
 Set the board width to 416.95 mm and the board height to 346.25 mm
 Adjust the x and y offset to lineup the scannes with the .lay file
 
+DO NOT POPULATE: C902, C917, R901, FB904, FB906, RP904, RP906, RP905, C230, C240, they are unpopulated on factory 6.2 rev, so, let them as-is.
+
 In Sprint Layout I than placed all the components (the ones that weren't there I created myself).
 Then I put in all the via's.
 
@@ -84,8 +86,3 @@ I was pointed out that on the original board D15 of the isa slots was not termin
 
 Update 28-9-2019
 Widened the +5V, +12V and -12V traces to 1.4 mm. If you populate all the slots it might not have enough power when trace is 1 mm. When you order the board with 70um copper it can now handle 6 amps. I uploaded a 1.7 version of the design and with it the gerber zip
-
-The board is now fully working.
-I rest my case
-
-

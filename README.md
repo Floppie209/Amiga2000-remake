@@ -86,3 +86,7 @@ I was pointed out that on the original board D15 of the isa slots was not termin
 
 Update 28-9-2019
 Widened the +5V, +12V and -12V traces to 1.4 mm. If you populate all the slots it might not have enough power when trace is 1 mm. When you order the board with 70um copper it can now handle 6 amps. I uploaded a 1.7 version of the design and with it the gerber zip
+
+Update 21-10-2019
+Changed the battery to a buttoncell battery and placed an diode D803 as the buttonbattery cannot be charged. I also uploaded the bomfile created from the sprintlayout file for rev 1.7.5
+Changed the Rev to 1.7.5.

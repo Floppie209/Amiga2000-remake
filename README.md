@@ -90,3 +90,7 @@ Widened the +5V, +12V and -12V traces to 1.4 mm. If you populate all the slots i
 Update 21-10-2019
 Changed the battery to a buttoncell battery and placed an diode D803 as the buttonbattery cannot be charged. I also uploaded the bomfile created from the sprintlayout file for Rev 1.7.5.
 Changed the Rev to 1.7.5 and uploaded new sprint and gerber files.
+
+Update 7-11-2019
+Widened the +5V and +12V traces to 1.6 mm. I uploaded new gerber files, sprint file and BOM file 1.8.
+I also changed the rev number to Rev 1.8.

@@ -94,3 +94,6 @@ Changed the Rev to 1.7.5 and uploaded new sprint and gerber files.
 Update 7-11-2019
 Widened the +5V and +12V traces to 1.6 mm. I uploaded new gerber files, sprint file and BOM file 1.8.
 I also changed the rev number to Rev 1.8.
+
+Update 10-11-2019
+Added some SMD leds with resistors to show if some voltages are okay, also I widened the -12V traces to 1.6 mm. I changed the rev number to Rev 1.8.5 and uploaded new gerber files, sprint and BOM file.

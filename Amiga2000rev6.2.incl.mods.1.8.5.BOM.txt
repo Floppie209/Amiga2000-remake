@@ -1,0 +1,570 @@
+Partlist from file: Amiga2000rev6.2.incl.mods.1.8.lay6" / 10-11-2019 15:54:42
+
+No	Name	Value			Layer	Comment
+
+1	1				Top	Skull logo
+2	201	5mm			Top	Double Ferrite Bead
+3	206	100pf			Top	
+4	207	100pf			Top	
+5	210	100pf			Top	
+6	211	100pf			Top	
+7	216	5mm			Top	Double Ferrite Bead
+8	217	5mm			Top	Double Ferrite Bead
+9	218	5mm			Top	Double Ferrite Bead
+10	219	5mm			Top	Double Ferrite Bead
+11	220	5mm			Top	Double Ferrite Bead
+12	221	5mm			Top	Double Ferrite Bead
+13	900	5mm			Top	Double Ferrite Bead
+14	901	5mm			Top	Double Ferrite Bead
+15	902	5mm			Top	Double Ferrite Bead
+16	903	5mm			Top	Double Ferrite Bead
+17	Hole	3,8 mm			Top	Mounting Hole
+18	Hole	3,8 mm			Top	Mounting Hole
+19	Hole	3,8 mm			Top	Mounting Hole
+20	Hole	3,8 mm			Top	Mounting Hole
+21	Hole	3,8 mm			Top	Mounting Hole
+22	Hole	3,8 mm			Top	Mounting Hole
+23	Hole	3,8 mm			Top	Mounting Hole
+24	Hole	3,8 mm			Top	Mounting Hole
+25	Hole	3,5 mm			Top	Mounting Hole
+26	BT800	3V Battery		Top	Buttoncell Battery
+27	C100	0,1uf			Top	
+28	C101	0,1uf			Top	
+29	C102	0,1uf			Top	
+30	C103	0,1uf			Top	
+31	C104	0,1uf			Top	
+32	C105	0,1uf			Top	
+33	C106	0,1uf			Top	
+34	C107	0,1uf			Top	
+35	C108	0,1uf			Top	
+36	C110	0,1uf			Top	
+37	C200	0,1uf			Top	
+38	C201	0,22uf			Top	
+39	C202	0,1uf			Top	
+40	C203	0,1uf			Top	
+41	C204	0,01uf			Top	
+42	C205	0,1uf			Top	
+43	C206	0,1uf			Top	
+44	C210	0,047uf			Top	
+45	C211	0,047uf			Top	
+46	C212	0,047uf			Top	
+47	C213	0,047uf			Top	
+48	C214	470uf 16/25v		Top	
+49	C215	0,22uf			Top	
+50	C216	0,22uf			Top	
+51	C217	0,22uf			Top	
+52	C218	0,047uf			Top	
+53	C219	0,22uf			Top	
+54	C220	0,22uf			Top	
+55	C221	0,22uf			Top	
+56	C222	47uf 16v		Top	
+57	C223	47uf 16v		Top	
+58	C224	4,7uf 16v		Top	
+59	C225	470uf 16/25v		Top	
+60	C226	470uf 16/25v		Top	
+61	C230	Empty			Top	Not Populated
+62	C231	6800pf			Top	
+63	C232	3900pf			Top	
+64	C233	22uf 16v		Top	
+65	C234	0,1uf			Top	
+66	C240	Empty			Top	Not Populated
+67	C241	6800pf			Top	
+68	C242	3900pf			Top	
+69	C243	22uf 16v		Top	
+70	C244	0,1uf			Top	
+71	C259	100pf			Top	
+72	C260	100pf			Top	
+73	C261	100pf			Top	
+74	C300	0,1uf			Top	
+75	C301	0,1uf			Top	
+76	C302	0,1uf			Top	
+77	C303	0,1uf			Top	
+78	C304	100pf			Top	
+79	C305	0,01uf			Top	
+80	C306	100pf			Top	
+81	C310	1000pf			Top	
+82	C311	1000pf			Top	
+83	C312	1000pf			Top	
+84	C313	1000pf			Top	
+85	C314	1000pf			Top	
+86	C315	1000pf			Top	
+87	C316	1000pf			Top	
+88	C317	22uf 16v		Top	
+89	C318	22uf 16v		Top	
+90	C320	470pf			Top	
+91	C321	470pf			Top	
+92	C322	0,01uf			Top	
+93	C323	0,01uf			Top	
+94	C400	220uf 16v		Top	
+95	C401	0,01uf			Top	
+96	C402	47uf 16v		Top	
+97	C403	47uf 16v		Top	
+98	C404	47uf 16v		Top	
+99	C405	47uf 16v		Top	
+100	C406	47uf 16v		Top	
+101	C407	0,01uf			Top	
+102	C408	47uf 16v		Top	
+103	C409	0,01uf			Top	
+104	C410	47uf 16v		Top	
+105	C411	0,01uf			Top	
+106	C412	47uf 16v		Top	
+107	C413	0,01uf			Top	
+108	C414	0,01uf			Top	
+109	C415	4,7uf 16v		Top	
+110	C416	220uf 16v		Top	
+111	C417	220uf 16v		Top	
+112	C418	220uf 16v		Top	
+113	C419	220uf 16v		Top	
+114	C420	47uf 16v		Top	
+115	C421	47uf 16v		Top	
+116	C422	47uf 16v		Top	
+117	C500	0,22uf			Top	
+118	C501	0,33uf			Top	
+119	C502	0,33uf			Top	
+120	C503	033uf			Top	
+121	C504	0,33uf			Top	
+122	C505	0,33uf			Top	
+123	C506	0,33uf			Top	
+124	C507	0,33uf			Top	
+125	C508	0,33uf			Top	
+126	C540	0,1uf			Top	
+127	C541	0,1uf			Top	
+128	C600	0,1uf			Top	
+129	C601	0,1uf			Top	
+130	C602	0,1uf			Top	
+131	C603	0,1uf			Top	
+132	C604	0,1uf			Top	
+133	C605	0,1uf			Top	
+134	C606	0,1uf			Top	
+135	C607	0,1uf			Top	
+136	C617	1000pf			Top	
+137	C619	1000pf			Top	
+138	C620	1000pf			Top	
+139	C621	1000pf			Top	
+140	C622	1000pf			Top	
+141	C623	1000pf			Top	
+142	C624	1000pf			Top	
+143	C625	1000pf			Top	
+144	C626	1000pf			Top	
+145	C627	1000pf			Top	
+146	C628	1000pf			Top	
+147	C629	1000pf			Top	
+148	C630	1000pf			Top	
+149	C631	1000pf			Top	
+150	C632	1000pf			Top	
+151	C633	1000pf			Top	
+152	C635	1000pf			Top	
+153	C637	1000pf			Top	
+154	C639	1000pf			Top	
+155	C641	1000pf			Top	
+156	C645	1000pf			Top	
+157	C647	1000pf			Top	
+158	C649	1000pf			Top	
+159	C650	1000pf			Top	
+160	C651	1000pf			Top	
+161	C652	1000pf			Top	
+162	C654	1000pf			Top	
+163	C655	1000pf			Top	
+164	C657	1000pf			Top	
+165	C658	1000pf			Top	
+166	C659	1000pf			Top	
+167	C660	1000pf			Top	
+168	C661	1000pf			Top	
+169	C662	1000pf			Top	
+170	C663	1000pf			Top	
+171	C664	1000pf			Top	
+172	C665	1000pf			Top	
+173	C666	1000pf			Top	
+174	C667	1000pf			Top	
+175	C668	1000pf			Top	
+176	C669	1000pf			Top	
+177	C670	1000pf			Top	
+178	C671	1000pf			Top	
+179	C672	1000pf			Top	
+180	C673	1000pf			Top	
+181	C674	1000pf			Top	
+182	C678	1000pf			Top	
+183	C700	0,22uf			Top	
+184	C701	22uf 16v		Top	
+185	C702	0,22uf			Top	
+186	C703	0,22uf			Top	
+187	C704	0,22uf			Top	
+188	C705	0,22uf			Top	
+189	C711	1000pf			Top	
+190	C713	1000pf			Top	
+191	C714	1000pf			Top	
+192	C716	1000pf			Top	
+193	C717	1000pf			Top	
+194	C719	1000pf			Top	
+195	C720	1000pf			Top	
+196	C722	1000pf			Top	
+197	C726	1000pf			Top	
+198	C728	1000pf			Top	
+199	C730	1000pf			Top	
+200	C732	1000pf			Top	
+201	C734	1000pf			Top	
+202	C736	1000pf			Top	
+203	C738	1000pf			Top	
+204	C740	1000pf			Top	
+205	C742	1000pf			Top	
+206	C744	1000pf			Top	
+207	C746	1000pf			Top	
+208	C748	1000pf			Top	
+209	C750	1000pf			Top	
+210	C752	1000pf			Top	
+211	C754	1000pf			Top	
+212	C756	1000pf			Top	
+213	C758	1000pf			Top	
+214	C760	1000pf			Top	
+215	C762	1000pf			Top	
+216	C764	1000pf			Top	
+217	C766	1000pf			Top	
+218	C768	1000pf			Top	
+219	C770	1000pf			Top	
+220	C776	1000pf			Top	
+221	C778	1000pf			Top	
+222	C780	1000pf			Top	
+223	C782	1000pf			Top	
+224	C784	1000pf			Top	
+225	C786	1000pf			Top	
+226	C787	1000pf			Top	
+227	C788	1000pf			Top	
+228	C790	1000pf			Top	
+229	C791	1000pf			Top	
+230	C793	1000pf			Top	
+231	C794	1000pf			Top	
+232	C796	1000pf			Top	
+233	C800	0,1uf			Top	
+234	C802	0,1uf			Top	
+235	C803	0,1uf			Top	
+236	C804	0,1uf			Top	
+237	C805	0,1uf			Top	
+238	C810	20pf			Top	
+239	C811	4,7uf 16v		Top	
+240	C812	0,1uf			Top	
+241	C813	22uf 16v		Top	
+242	C814	22uf 16v		Top	
+243	C815	0,1uf			Top	
+244	C900	0,1uf			Top	
+245	C901	0,1uf			Top	
+246	C902	Empty			Top	Not Populated
+247	C903	0,1uf			Top	
+248	C904	100pf			Top	
+249	C905	100pf			Top	
+250	C906	0,1uf			Top	
+251	C907	100pf			Top	
+252	C908	100pf			Top	
+253	C909	0,1uf			Top	
+254	C910	0,1uf			Top	
+255	C912	470uf 16/25v		Top	
+256	C913	47pf			Top	
+257	C914	100pf			Top	
+258	C915	0,1uf			Top	
+259	C916	0,1uf			Top	
+260	C917	Empty			Top	Not Populated
+261	C918	0,1uf			Top	
+262	C919	0,1uf			Top	
+263	C920	100pf			Top	
+264	CN200	9pin male		Top	9 PIN MALE
+265	CN201	9pin male		Top	9 PIN MALE
+266	CN202	23pin male		Top	23 PIN MALE
+267	CN203	36pin, (2x18, .100)	Top	INTERNAL VIDEO SLOT TOP
+268	CN204	Audio			Top	Right Audio
+269	CN205	Audio			Top	Left Audio
+270	CN206	Video B/W		Top	Composite video
+271	CN207	36pin, (2x18, .100)	Top	INTERNAL VIDEO SLOT BOTTOM
+272	CN300	5pin Din		Top	KEYBOARD
+273	CN301	25pin female		Top	25 PIN FEMALE
+274	CN302	23pin female		Top	23 PIN FEMALE
+275	CN303	2x17			Top	PINHEADER 2X17
+276	CN304	2x13			Top	PINHEADER 2X13
+277	CN305	25pin male		Top	25 PIN MALE
+278	CN306	1x03			Top	PINHEADER 1X03
+279	CN600	86pin (2x43, .100)	Top	CO PROCESSOR SLOT
+280	CN601	100pin, (2x50, .100)	Top	ZORRO II SLOT
+281	CN602	100pin, (2x50, .100)	Top	ZORRO II SLOT
+282	CN603	100pin, (2x50, .100)	Top	ZORRO II SLOT
+283	CN604	100pin, (2x50, .100)	Top	ZORRO II SLOT
+284	CN605	100pin (2x50, .100)	Top	ZORRO II SLOT
+285	CN606	1x04			Top	PINHEADER 1X04
+286	CN700	62pin, (2x31, .100)	Top	IBM 8BIT EXPANSION BUS
+287	CN701	62pin, (2x31, .100)	Top	IBM 8BIT EXPANSION BUS
+288	CN702	62pin, (2x31, .100)	Top	IBM 8BIT EXPANSION BUS
+289	CN703	62pin, (2x31, .100)	Top	IBM 8BIT EXPANSION BUS
+290	CN704	36pin, (2x18, .100)	Top	IBM 16BIT EXTENDED BUS
+291	CN705	36pin, (2x18, .100)	Top	IBM 16BIT EXTENDED BUS
+292	CN706	36pin, (2x18, .100)	Top	IBM 16BIT EXTENDED BUS
+293	CN707	36pin, (2x18, .100)	Top	IBM 16BIT EXTENDED BUS
+294	D300	1N4148			Top	
+295	D301	SMD LED Green		Top	0805
+296	D400	1N4001			Top	
+297	D401	1N4001			Top	
+298	D402	SMD LED Blue		Top	0805
+299	D403	SMD LED Red		Top	0805
+300	D800	1N4148			Top	
+301	D801	1N4148			Top	
+302	D803	1n4148			Top	
+303	EMI200	100pf			Top	
+304	EMI208	100pf			Top	
+305	EMI209	3300pf			Top	
+306	EMI229	100pf			Top	
+307	EMI230	6800pf			Top	
+308	EMI231	6800pf			Top	
+309	EMI232	6800pf			Top	
+310	EMI233	6800pf			Top	
+311	EMI234	6800pf			Top	
+312	EMI235	6800pf			Top	
+313	EMI236	6800pf			Top	
+314	EMI237	6800pf			Top	
+315	EMI238	6800pf			Top	
+316	EMI239	6800pf			Top	
+317	EMI240	6800pf			Top	
+318	EMI241	6800pf			Top	
+319	EMI242	6800pf			Top	
+320	EMI243	6800pf			Top	
+321	EMI300	330pf			Top	
+322	EMI301	330pf			Top	
+323	EMI302	330pf			Top	
+324	EMI303	330pf			Top	
+325	EMI304	330pf			Top	
+326	EMI305	330pf			Top	
+327	EMI306	330pf			Top	
+328	EMI307	330pf			Top	
+329	EMI308	330pf			Top	
+330	EMI309	330pf			Top	
+331	EMI310	330pf			Top	
+332	EMI311	100pf			Top	
+333	EMI312	100pf			Top	
+334	EMI313	100pf			Top	
+335	EMI314	100pf			Top	
+336	EMI315	100pf			Top	
+337	EMI316	100pf			Top	
+338	EMI317	100pf			Top	
+339	EMI318	100pf			Top	
+340	EMI319	100pf			Top	
+341	EMI320	100pf			Top	
+342	EMI321	100pf			Top	
+343	EMI322	100pf			Top	
+344	EMI323	100pf			Top	
+345	EMI324	100pf			Top	
+346	EMI325	330pf			Top	
+347	EMI326	330pf			Top	
+348	EMI327	330pf			Top	
+349	EMI328	330pf			Top	
+350	EMI329	330pf			Top	
+351	EMI330	330pf			Top	
+352	EMI331	330pf			Top	
+353	EMI332	330pf			Top	
+354	EMI333	330pf			Top	
+355	EMI334	330pf			Top	
+356	EMI335	330pf			Top	
+357	EMI336	330pf			Top	
+358	EMI337	330pf			Top	
+359	EMI338	330pf			Top	
+360	EMI339	100pf			Top	
+361	EMI340	100pf			Top	
+362	EMI341	100pf			Top	
+363	F1	4A			Top	
+364	F2	4A			Top	
+365	F3	4A			Top	
+366	F4	4A			Top	
+367	F5	4A			Top	
+368	FB101	10mm axial		Top	FERRITE BEAD SMALL
+369	FB102	10mm axia		Top	FERRITE BEAD SMALL
+370	FB215	10mm axia		Top	FERRITE BEAD SMALL
+371	FB301	10mm axial		Top	FERRITE BEAD SMALL
+372	FB302	10mm axia		Top	FERRITE BEAD SMALL
+373	FB303	10mm axia		Top	FERRITE BEAD SMALL
+374	FB401	10mm axia		Top	FERRITE BEAD SMALL
+375	FB904	Empty			Top	Not Populated
+376	FB906	Empty			Top	Not Populated
+377	FB907	10mm axial		Top	FERRITE BEAD SMALL
+378	Hole	3,8 mm			Top	Mounting hole
+379	Hole	3,5 mm			Top	Mounting Hole
+380	Hole	3,5 mm			Top	Mounting Hole
+381	Hole	3,5 mm			Top	Release Hole
+382	Hole	3,5 mm			Top	Release Hole
+383	Hole	3,8 mm			Top	Mounting Hole
+384	Hole	3,5 mm			Top	Mounting Hole
+385	HY200	1x22 female		Top	VIDIOT
+386	J101	1x03			Top	PINHEADER 1X03
+387	J200	1x03			Top	PINHEADER 1X03
+388	J300	1x03			Top	PINHEADER 1X03
+389	J301	1x02			Top	PINHEADER 1X02
+390	J500	1x02			Top	PINHEADER 1X02
+391	J900	1x02			Top	PINHEADER 1X02
+392	PWRCON CN400	14pin 		Top	
+393	Q200	MPF102			Top	
+394	Q201	MPF102			Top	
+395	Q202	2N3906			Top	
+396	Q300	2SC945			Top	
+397	Q301	2N3904			Top	
+398	Q302	2N3906			Top	
+399	Q400	PST518B			Top	
+400	R101	4k7			Top	
+401	R104	4k7			Top	
+402	R105	22R			Top	
+403	R106	22R			Top	
+404	R109	4k7			Top	
+405	R110	330R			Top	
+406	R111	330R			Top	
+407	R114	330R			Top	
+408	R115	330R			Top	
+409	R200	1R			Top	
+410	R201	4k7			Top	
+411	R202	10k			Top	
+412	R203	10k			Top	
+413	R204	470k			Top	
+414	R205	470k			Top	
+415	R206	10k			Top	
+416	R207	10R			Top	
+417	R208	10R			Top	
+418	R209	1k2			Top	
+419	R210	1k2			Top	
+420	R211	10k			Top	
+421	R212	22R			Top	
+422	R213	2k7			Top	
+423	R214	10k			Top	
+424	R215	1R			Top	
+425	R216	10k			Top	
+426	R217	Empty			Top	Not Populated
+427	R230	360R			Top	
+428	R231	10k			Top	
+429	R232	10k			Top	
+430	R233	1k			Top	
+431	R234	390R			Top	
+432	R240	360R			Top	
+433	R241	10k			Top	
+434	R242	10k			Top	
+435	R243	1k			Top	
+436	R244	390R			Top	
+437	R300	4k7			Top	
+438	R301	1k			Top	
+439	R302	1k			Top	
+440	R305	10k			Top	
+441	R306	10k			Top	
+442	R307	68R			Top	
+443	R308	200R			Top	
+444	R309	4k7			Top	
+445	R310	47R 0,5w		Top	0,5 Watt
+446	R311	1k			Top	
+447	R312	1k			Top	
+448	R401	1k			Top	
+449	R402	68R			Top	0805
+450	R403	500R			Top	0805
+451	R500	4k7			Top	
+452	R601	1k			Top	
+453	R602	1k			Top	
+454	R603	1k			Top	
+455	R604	1k			Top	
+456	R605	1k			Top	
+457	R800	1k			Top	
+458	R801	470R			Top	
+459	R802	10k			Top	
+460	R803	470R			Top	
+461	R804	10k			Top	
+462	R805	47k			Top	
+463	R806	4k7			Top	
+464	R807	4k7			Top	
+465	R900	1k			Top	
+466	R901	Empty			Top	Not Populated
+467	R902	4k7			Top	
+468	R904	47R			Top	
+469	R905	47R			Top	
+470	R914	1R 0,5w			Top	0,5 Watt
+471	R916	4k7			Top	
+472	R917	330R			Top	
+473	R1000	330R			Top	
+474	R407-C307	68R + 270pf	Top	
+475	RP100	4k7			Top	SIP 10
+476	RP101	4k7			Top	SIP 10
+477	RP102	47R			Top	Isolated Pack 4Res SIP 8
+478	RP200	4k7			Top	SIP 10
+479	RP201	47R			Top	Isolated Pack 4Res SIP 8
+480	RP203	47R			Top	Isolated Pack 4Res SIP 8
+481	RP204	68R			Top	Isolated Pack 4Res SIP 8
+482	RP205	1k			Top	SIP 6
+483	RP300	10k			Top	SIP 10
+484	RP301	1k			Top	SIP 6
+485	RP500	47R			Top	Isolated Pack 5Res SIP 10
+486	RP501	47R			Top	Isolated Pack 5Res SIP 10
+487	RP502	22R			Top	Isolated Pack 5Res SIP 10
+488	RP503	470R			Top	SIP 10
+489	RP600	10k			Top	SIP 8
+490	RP601	1K			Top	SIP 10
+491	RP602	1K			Top	SIP 10
+492	RP603	1K			Top	SIP 10
+493	RP604	470R			Top	SIP 10
+494	RP605	1K			Top	SIP 10
+495	RP607	1k			Top	SIP 6
+496	RP700	1K			Top	SIP 10
+497	RP701	1K			Top	SIP 10
+498	RP702	1K			Top	SIP 10
+499	RP703	1K			Top	SIP 10
+500	RP704	1K			Top	SIP 10
+501	RP705	4k7			Top	SIP 10
+502	RP800	1k			Top	SIP 8
+503	RP801	4k7			Top	SIP 8
+504	RP802	1k			Top	Isolated pack 5res SIP 10
+505	RP900	Empty			Top	Not Populated
+506	RP901	Empty			Top	Not Populated
+507	RP902	47R			Top	Isolated Pack 4Res SIP 8
+508	RP903	1k			Top	SIP 6
+509	RP904	Empty			Top	Not Pupulated
+510	RP905	Empty			Top	Not Populated
+511	RP906	Empty			Top	Not Populated
+512	RP907	47R			Top	Isolated Pack 4Res SIP 8
+513	RP908	1k			Top	SIP 6
+514	RP603-1	3k3			Top	SIP 10
+515	RP604-1	3k3			Top	SIP 10
+516	U100	MC68000			Top	Processor
+517	U101	AGNUS 8372		Top	Fat Lady (Agnus)
+518	U102	GARY			Top	Gary
+519	U103	SN74F245N		Top	
+520	U104	SN74LS373N		Top	
+521	U105	SN74F245N		Top	
+522	U106	SN74LS373N		Top	
+523	U107	SN74F04N		Top	
+524	U108	SN74LS74AN		Top	
+525	U200	PAULA			Top	Paula
+526	U201	DENISE			Top	Denise
+527	U202	SN74LS157N		Top	
+528	U203	SN74LS38N		Top	
+529	U204	LF347N/NOPB		Top	
+530	U205	SN74LS244N		Top	
+531	U206	SN74LS244N		Top	
+532	U300	CIA 8520		Top	Odd CIA
+533	U301	CIA 8520		Top	Even CIA
+534	U302	SN74LS32N		Top	
+535	U303	SN74F08N		Top	
+536	U304	MC1488N			Top	
+537	U305	MC1489N			Top	
+538	U500	27C400			Top	Kickstart Chip
+539	U501	4256-10			Top	Memory chip
+540	U502	4256-10			Top	Memory chip
+541	U503	4256-10			Top	Memory chip
+542	U504	4256-10			Top	Memory chip
+543	U505	4256-10			Top	Memory chip
+544	U506	4256-10			Top	Memory chip
+545	U507	4256-10			Top	Memory chip
+546	U508	4256-10			Top	Memory chip
+547	U540	SN74F244N		Top	
+548	U541	SN74F244N		Top	
+549	U600	SN74LS245N		Top	
+550	U601	SN74LS245N		Top	
+551	U602	SN74ALS245AN		Top	
+552	U603	SN74LS245N		Top	
+553	U604	SN74LS245N		Top	
+554	U605	SN74ALS245AN		Top	
+555	U606	SN74LS32N		Top	
+556	U607	SN74LS08N		Top	
+557	U800	BUSTER 5721		Top	Buster
+558	U801	MSM6242			Top	
+559	U802	SN74LS138N		Top	
+560	U803	SN74LS08N		Top	
+561	U804	SN74LS148N		Top	
+562	U805	LM339			Top	
+563	U900	SN74F00N		Top	
+564	VC800	22-47pF			Top	
+565	X1	28.37516MHz Oscillator	Top	Dip14
+566	Y800	32768Hz			Top	

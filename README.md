@@ -97,3 +97,9 @@ I also changed the rev number to Rev 1.8.
 
 Update 10-11-2019
 Added some SMD leds with resistors to show if some voltages are okay, also I widened the -12V traces to 1.6 mm. I changed the rev number to Rev 1.8.5 and uploaded new gerber files, sprint and BOM file.
+
+Update 17-11-2019
+John Hertell made a locator for version 1.8.5 of my Amiga2000 board. It can be found on:
+http://www.hertell.nu/locatortst/locator.php?project=A2000. It can be used to populate the board with components.
+
+

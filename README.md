@@ -100,6 +100,7 @@ Added some SMD leds with resistors to show if some voltages are okay, also I wid
 
 Update 17-11-2019
 John Hertell made a locator for version 1.8.5 of my Amiga2000 board. It can be found on:
-http://www.hertell.nu/locatortst/locator.php?project=A2000. It can be used to populate the board with components.
+Not yet: I will get a better one later on. I will post it here.
+
 
 

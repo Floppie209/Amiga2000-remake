@@ -102,5 +102,9 @@ Update 17-11-2019
 John Hertell made a locator for version 1.8.5 of my Amiga2000 board. It can be found on:
 http://locator.reamiga.info/locator.php?project=A2000.
 
+Update 28-12-2019
+I have finished the build of my 1.8.5 pcb. It started at the first try. I will not do any more updates on this page. If someone will build it he/she/it can use the gerber files and order one at a pcb factory.
+I am happy with the result and say cherio.
+
 
 

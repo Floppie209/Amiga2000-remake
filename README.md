@@ -2,7 +2,25 @@
 
 A recreation of the Amiga2000 motherboard using Sprint Layout
 
-If you want to build this board please use the gerbers in Amiga2000rev6.2.incl.mods.zip. The only thing not applied are footprints for the r2-c1 combo as it involves moving a lot of traces and I dont know what it does to the working of the board. All other 6.2 fixes are applied.
+If you want to build this board please use the gerbers in Amiga2000rev6.2.incl.mods.1.8.5.zip. The only thing not applied are footprints for the r2-c1 combo as it involves moving a lot of traces and I dont know what it does to the working of the board. All other 6.2 fixes are applied.
+
+I used the following data to order the pcbS at JLCPCB:
+Layers - 2
+PCB Dimension - 416.95mm * 346.25mm
+PCB Qty - 5
+PCB Thickness - 1.6mm
+PCB Color - Blue
+Surface Finish - ENIG-RoHS
+Copper Weight - 2oz
+Gold Fingers - No
+Material Details - FR4-Standard Tg 130-140C
+Panel by JLCPCB - No
+Flying Probe Test - Fully Test
+Castelated Holes - No
+Different Design - 1
+Remove Order Number - No
+
+On their site you can check their capabilities but my board confirms to their minimum requirements.
 
 I started with the complete removal of all components of an Amiga2000 rev 6.2 motherboard. I than removed all the print and 
 the green layer so the bare copper showed.
@@ -105,6 +123,9 @@ http://locator.reamiga.info/locator.php?project=A2000.
 Update 28-12-2019
 I have finished the build of my 1.8.5 pcb. It started at the first try. I will not do any more updates on this page. If someone will build it he/she/it can use the gerber files and order one at a pcb factory.
 I am happy with the result and say cherio.
+
+Update 7-1-2020
+I have put the order details in this readme file.
 
 
 

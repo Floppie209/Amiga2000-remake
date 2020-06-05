@@ -127,5 +127,8 @@ I am happy with the result and say cherio.
 Update 7-1-2020
 I have put the order details in this readme file.
 
+Update 5-6-2020
+Changed the value of rp101 from 4.7k to 2.7k as thats the value in the schematic.
+
 
 

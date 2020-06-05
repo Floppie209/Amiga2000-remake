@@ -129,6 +129,6 @@ I have put the order details in this readme file.
 
 Update 5-6-2020
 Changed the value of rp101 from 4.7k to 2.7k as thats the value in the schematic.
-
+Also i added a list with ordernrs for several companies
 
 

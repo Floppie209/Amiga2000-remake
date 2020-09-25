@@ -133,4 +133,5 @@ Also i added a list with ordernrs for several companies
 
 Update 25-9-2020
 Changed a typo in the value of C305 from 0.01uf to 0.1uf as thats the value in the schematic.
-Also changed the order list accordingly.
+C909 is not populated on the original board so it schould be empty
+Also changed the order list and sprint file accordingly.
